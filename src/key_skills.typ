@@ -1,0 +1,4 @@
+- Языки программирования: Python, TypseScript, C\#
+- Фреймворки и технологии: FastAPI, sqlalchemy, pytorch, vue.js
+- Базы данных: PostgreSQL, MongoDB, Redis
+- Инструменты: Linux, Git, Docker, Github Actions, Drone CI
