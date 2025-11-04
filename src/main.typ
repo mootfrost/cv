@@ -17,7 +17,7 @@
 #show heading.where(level: 1): set text(size: 24pt)
 #show heading.where(level: 2): set text(size: 20pt)
 
-= Семейкин Андрей 
+= Семейкин Андрей Андреевич
 \
 Москва
 
@@ -25,6 +25,15 @@
 a.semeikin\@mootfrost.dev \
 https://mootfrost.dev
 
+
+#set par(
+  first-line-indent: 1em,
+  spacing: 0.65em,
+  justify: true,
+)
+
+== Цель
+#include "objective.typ"
 
 == Образование
 #include "education.typ"
